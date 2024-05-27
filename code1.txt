@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ekrjekf
 main
+=======
+asdf
+>>>>>>> e68c800c54ad038423c38a73ec87601c91cce701
